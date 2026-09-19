@@ -1,0 +1,7 @@
+{
+  "version": "1.0.1",
+  "url": "https://raw.githubusercontent.com/NRI12/pdf-extractor-updates/main/releases/MyApp-1.0.1.zip",
+  "sha256": "f48ed5c60e89c44082eb18d5acc3b75a13e4c49a8fa3d29658907059c52cf135",
+  "encoding": "raw",
+  "release_notes": "Adds Tkinter auto-update flow (check version.json, prompt, download, verify SHA-256, backup, install, rollback on failure)."
+}
