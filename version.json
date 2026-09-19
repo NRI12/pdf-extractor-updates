@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
-  "url": "https://raw.githubusercontent.com/NRI12/pdf-extractor-updates/main/releases/MyApp-1.0.2.zip",
-  "sha256": "11da6ed78976f32df748f20f4b6fb0a89fe52d42427ec0626f8b8352ddf07114",
+  "version": "1.0.3",
+  "url": "https://raw.githubusercontent.com/NRI12/pdf-extractor-updates/main/releases/MyApp-1.0.3.zip",
+  "sha256": "b6338ca7c8f71f30b30433ce40d04540bc7938d0af8bd21b83aee757c4258bff",
   "encoding": "raw",
-  "release_notes": "Merged into a single self-updating exe (no separate Updater.exe) with a visible progress window during update."
+  "release_notes": "Test 1 lenh release script"
 }
