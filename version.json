@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "url": "https://raw.githubusercontent.com/NRI12/pdf-extractor-updates/main/releases/MyApp-1.0.3.zip",
-  "sha256": "b6338ca7c8f71f30b30433ce40d04540bc7938d0af8bd21b83aee757c4258bff",
+  "version": "1.0.4",
+  "url": "https://raw.githubusercontent.com/NRI12/pdf-extractor-updates/main/releases/MyApp-1.0.4.zip",
+  "sha256": "fca43cfab589b0a82ec34278e534a1ce55a6ce34e33224e50496d63de01e8121",
   "encoding": "raw",
-  "release_notes": "Test 1 lenh release script"
+  "release_notes": "Refactored into a reusable auto-update kit (updater/config.py) for future apps"
 }
